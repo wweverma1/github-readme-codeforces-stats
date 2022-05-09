@@ -12,7 +12,7 @@
   <a href="#">Contribute</a>
 </p>
 
-## About
+## 🌟 About
 This projects offers you a new add-on i.e. **Codeforces Stats** to add to your GitHub Readme.
 
 ## 🚀 Demo
