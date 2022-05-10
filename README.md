@@ -32,6 +32,14 @@ This projects offers you a new add-on i.e. **Codeforces Stats** to add to your G
 
 ## 🛠️ Usage
 
+Copy-paste this url into your browser and change the parameters.
+
+Endpoint: `stats/u=wweverma1&t=1`
+
+```md
+https://codeforces-stats-api.herokuapp.com/stats?u=wweverma1&t=1
+```
+
 ## 🍰 Contributing
 
 ## 🙏 Special Thanks
