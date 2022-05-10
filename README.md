@@ -5,7 +5,15 @@
   Dynamically generated Codeforces stats for your GitHub Readme
 </p>
 <p align="center">
-  <a class="github-button" href="https://github.com/wweverma1/github-readme-codeforces-stats" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star wweverma1/github-readme-codeforces-stats on GitHub">Star</a>
+  <a href="https://github.com/wweverma1/github-readme-codeforces-stats/fork" target="blank">
+    <img src="https://img.shields.io/github/forks/wweverma1/github-readme-codeforces-stats?style=flat-square" alt="github-profile-readme-generator forks"/>
+  </a>
+  <a href="https://github.com/wweverma1/github-readme-codeforces-stats/stargazers" target="blank">
+    <img src="https://img.shields.io/github/stars/wweverma1/github-readme-codeforces-stats?style=flat-square" alt="github-profile-readme-generator stars"/>
+  </a>
+  <a href="https://github.com/wweverma1/github-readme-codeforces-stats/issues" target="blank">
+    <img src="https://img.shields.io/github/issues/wweverma1/github-readme-codeforces-stats?style=flat-square" alt="github-profile-readme-generator issues"/>
+  </a>
 </p>
 <p align="center">
   <a href="#">View Demo</a>
@@ -27,3 +35,8 @@ This projects offers you a new add-on i.e. **Codeforces Stats** to add to your G
 ## 🍰 Contributing
 
 ## 🙏 Special Thanks
+
+<hr>
+<p align="center">
+Developed with ❤️ in India 🇮🇳 
+</p>
