@@ -35,6 +35,7 @@ This projects offers you a new add-on i.e. **Codeforces Stats** to add to your G
 ## 🍰 Contributing
 
 ## 🙏 Special Thanks
+- [Codeforces](https://codeforces.com/) for their [APIs](https://codeforces.com/apiHelp)
 
 <hr>
 <p align="center">
