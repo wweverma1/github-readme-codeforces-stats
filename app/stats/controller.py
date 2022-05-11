@@ -14,8 +14,8 @@ from app.stats.models import (
 
 
 def fetch_stats():
-    username = request.args.get('u', type=str)
-    theme_id = request.args.get('t', type=int, default=1)
+    username = request.args.get('username', type=str)
+    theme_id = request.args.get('theme', type=int, default=1)
     user_details = User.fetch_user_details(username)
     if user_details["status"]=="OK":
         submission_details = User.fetch_submission_details(username)
