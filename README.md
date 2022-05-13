@@ -28,6 +28,8 @@ This projects offers you a new add-on i.e. **Codeforces Stats** to add to your G
 
 ## 🚀 Demo
 
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
+
 ## 🧐 Features
 
 ## 🛠️ Usage

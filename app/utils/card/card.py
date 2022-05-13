@@ -23,7 +23,7 @@ class Card:
         paragraph.add(dwg.text(title, (140,40), fill=THEMES[theme]['title_color'], style="font-weight: bold;"))
         user_raing = str(user_details["rating"])+" "+"("+str(user_details["rank"])+") | "+str(user_details["maxRating"])+" ("+str(user_details["maxRank"])+")"
         paragraph.add(dwg.text(user_raing, (140,65), fill=THEMES[theme]['text_color']))
-        paragraph.add(dwg.text(str(submission_details["total"])+" Problems Solved", (140,90), fill=THEMES[theme]['text_color']))
+        paragraph.add(dwg.text(str(submission_details["ac"])+" Problems Solved", (140,90), fill=THEMES[theme]['text_color']))
         paragraph = dwg.add(dwg.g(font_size=14))
         paragraph.add(dwg.text("AC ✔️ "+str(submission_details["ac"]), (50,140), fill=THEMES[theme]['text_color']))
         paragraph.add(dwg.text("TLE ⚠️ "+str(submission_details["tle"]), (170,140), fill=THEMES[theme]['text_color']))
