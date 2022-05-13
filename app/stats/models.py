@@ -12,14 +12,21 @@ class User:
         if response.status_code==200:
             userDetails["status"] = "OK"
             response=response.json()
+            userResponse=response["result"][0]
+            name=""
+            if "firstName" in userResponse:
+                name=userResponse["firstName"]
+                if "lastName" in userResponse:
+                    name+=" "+userResponse["lastName"]
             userDetails["userDetails"] = {
-                "handle": response["result"][0]["handle"],
-                "titlePhoto": response["result"][0]["titlePhoto"],
-                "organization": response["result"][0]["organization"],
-                "rank": response["result"][0]["rank"],
-                "rating": response["result"][0]["rating"],
-                "maxRank": response["result"][0]["maxRank"],
-                "maxRating": response["result"][0]["maxRating"],
+                "handle": userResponse["handle"],
+                "name": name if name else None,
+                "titlePhoto": userResponse["titlePhoto"],
+                "organization": userResponse["organization"] if userResponse["organization"] else None,
+                "rank": userResponse["rank"],
+                "rating": userResponse["rating"],
+                "maxRank": userResponse["maxRank"],
+                "maxRating": userResponse["maxRating"],
             }
         else:
             userDetails["status"] = "FAILED"
