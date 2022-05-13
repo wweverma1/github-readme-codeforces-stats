@@ -48,7 +48,7 @@ Copy-paste this code into your GitHub Readme and change the parameters according
 #### Parameters:
 
 - `username` - Your Codeforces Username
-- `theme` - Theme code for the statistics card. Currently this project offers 2 themes:
+- `theme` - Theme code for the cards. Currently this project offers 2 themes:
     - `1` - Light Theme
     - `2` - Dark Theme 
 
