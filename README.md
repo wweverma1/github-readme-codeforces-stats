@@ -44,7 +44,7 @@ Copy-paste this code into your GitHub Readme and change the parameters according
 
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
 
-Get your Codeforces Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
+Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
 ```
 
 #### Parameters:
