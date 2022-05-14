@@ -58,7 +58,7 @@ Default `theme` parameter is `1`.
 
 ## Contributing
 
-If your're interesting in contributing to this project please pick an [Open Issue](https://github.com/wweverma1/github-readme-codeforces-stats/issues?q=is%3Aopen+is%3Aissue) or create a new one.
+If you're interested in contributing to this project please pick an [Open Issue](https://github.com/wweverma1/github-readme-codeforces-stats/issues?q=is%3Aopen+is%3Aissue) or create a new one.
 
 Also, please follow the [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and open a pull request.
 Thanks!
