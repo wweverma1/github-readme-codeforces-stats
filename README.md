@@ -25,7 +25,7 @@
 
 ## 🌟 About
 
-This projects offers you a new add-on i.e. **Codeforces Stats** to add to your GitHub Readme.
+This project offers you a new add-on i.e. **Codeforces Stats Card** to add to your GitHub Profile.
 
 ## Demo
 
