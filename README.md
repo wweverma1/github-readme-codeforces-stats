@@ -40,7 +40,7 @@ This project offers you a new add-on i.e. **Codeforces Stats Card** to add to yo
 Copy-paste this code into your GitHub Readme and change the parameters accordingly.
 
 ```md
-## My Codeforces Stats
+### My Codeforces Stats
 
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
 
