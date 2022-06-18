@@ -1,7 +1,7 @@
 # for creating svg
 import svgwrite
 
-from app.utils.card.themes.themes import (
+from app.utils.card.attributes.attributes import (
     DIMENSIONS,
     THEMES
 )
