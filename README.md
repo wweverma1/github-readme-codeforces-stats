@@ -29,9 +29,7 @@ This project offers you a new add-on i.e. **Codeforces Stats Card** to add to yo
 
 ## Demo
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
-
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=2)
+<img width="768" height="192" alt="image" src="https://github.com/user-attachments/assets/77453439-7c06-4d68-b498-efa1c2b4ff15" />
 
 <!-- ## 🧐 Features -->
 
